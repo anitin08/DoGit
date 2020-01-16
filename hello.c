@@ -1,7 +1,6 @@
-  #include
-<stdio.h>
+  #include "human.h"
 
-int main()
+int playwithhuman()
 {
-print("hello");
-} 
+human h ={100,"ram"};
+}
